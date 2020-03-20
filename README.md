@@ -48,6 +48,7 @@ This prevents Git from losing history, which is important for the integrity of y
 
 ##  Task 4
 
+- absurd code
 - Create a new branch (called Task4) in your fork. Add a dummy piece of code and push it to the current branch. 
 - You've now realized that you've pushed something that is not only wrong but also stupid. You regret it so much that you want the commit to vanish altogether. 
 Use reset to **remove this commit**. 
